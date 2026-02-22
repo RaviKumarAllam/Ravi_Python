@@ -89,4 +89,8 @@ for i in range(3):
     print(i)
     i=10
 
-
+x = []
+if x:
+    print('Hello')
+else:
+    print('World')
