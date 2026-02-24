@@ -95,6 +95,10 @@ print(a)
 for i in range(3):
     print(i)
     i=10
+
+for i in range(3):
+    i =i+1
+print(i)
     
 # x value is null so return else condition
 x = []
