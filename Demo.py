@@ -99,6 +99,7 @@ for i in range(3):
 
 for i in range(3):
     i =i+1
+    print(i) 
 print(i)
     
 # x value is null so return else condition
