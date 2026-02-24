@@ -65,6 +65,7 @@ d = a
 a = a + [5]
 print(d)
 
+print(a[::-2])
 #Magical code-7 operators validation
 x={1,2,3}
 y={3,4,5}
@@ -94,10 +95,12 @@ print(a)
 for i in range(3):
     print(i)
     i=10
-
+    
 # x value is null so return else condition
 x = []
 if x:
     print('Hello')
 else:
     print('World')
+
+
