@@ -42,8 +42,9 @@ print(list(range(1,10,3)))
 s="python"
 print(s[::2])
 
-nums1[1] = 25
-print(nums1)
+nums=(10,20,30)
+nums[1] = 99
+print(nums)
 
 #Magical code-6 
 x=3
