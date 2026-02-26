@@ -33,7 +33,7 @@ if x>5:
 print(x)
 
 #Magical code-5 slicing and appening
-nums1=[10, 20, 30,40]
+nums1=[10, 20, 30,40, 50]
 nums1.append(nums1[-1]+5)
 print(nums1)
 total=sum(nums1[1:3])
