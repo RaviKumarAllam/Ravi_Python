@@ -132,6 +132,6 @@ for n in range(5):
     if n ==3:
         break
     print(n)
-#List
+#User input for List numbers
 lst = list(map(int,input().split()))
 print(lst)
