@@ -126,7 +126,12 @@ c = int("1000")
 d = 500 + 500
 print(a is b, a is c, a== d)
 
+
+
 for n in range(5):
     if n ==3:
         break
     print(n)
+#List
+lst = list(map(int,input().split()))
+print(lst)
