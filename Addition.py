@@ -24,7 +24,7 @@ print(num1+num2, num1-num2, num1*num2, num1/num2, num1//num2, num1**num2, num1%n
 name = 'RAVIALLAM'
 print(name[0], name[-1], name[0:2], name[1:], name[:4], name[::-1])
 
-#List indexing [a:b] a--> starting, b --> ending append, insert, pop, extend, min, max, sum and sort
+#List indexing [a:b] a--> starting, b --> ending append, insert, pop, extend, min, max, sum and sort.
 List_Num = [1,3,4,5,6, 9,8]
 print(List_Num[0], List_Num[-1], List_Num[0:2], List_Num[1:], List_Num[:4], List_Num[::-1])
 List_Num.append(7)
