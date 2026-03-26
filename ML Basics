@@ -1,4 +1,0 @@
-#ML basics 
-a=True
-b=False
-print(a+b) 
